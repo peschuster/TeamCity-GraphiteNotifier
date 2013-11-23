@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<teamcity-plugin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:shemas-jetbrains-com:teamcity-plugin-v1-xml">
+  <info>
+    <name>GraphiteNotifier</name>
+    <display-name>Graphite Notifier</display-name>
+    <version>0.0.1</version>
+    <description>Send notifications to Graphite monitoring server.</description>
+    <vendor>
+      <name>Peter Schuster</name>
+      <url>http://www.peschuster.de</url>
+    </vendor>
+  </info>
+</teamcity-plugin>
